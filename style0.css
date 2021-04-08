@@ -1,0 +1,40 @@
+body {
+  background: linear-gradient(145deg, #020e71, #021187);
+  background-repeat: no-repeat;
+}
+.text {
+  padding: 20px;
+  color: white;
+  font-size: x-large;
+}
+form,
+h3 {
+  margin-top: 50px;
+  align-items: center;
+  text-align: center;
+}
+input {
+  border-radius: 10px;
+  font-size: xx-large;
+}
+img {
+  width: 80px;
+  height: 80px;
+  margin-left: 210px;
+}
+.container {
+  margin-left: 700px;
+  border-radius: 63px;
+  background: linear-gradient(145deg, #020e71, #021187);
+  box-shadow: 50px 50px 100px #010b59, -50px -50px 90px #0315a3;
+  height: 350px;
+  width: 500px;
+}
+.submit {
+  display: block;
+  margin-left: 210px;
+  margin-top: 20px;
+  background-color: gold;
+  color: darkblue;
+  font-weight: bolder;
+}
